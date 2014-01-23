@@ -1,6 +1,6 @@
 ## Basic Rails 4 Authentication
 
-```ruby
+```powershell
 bundle install
 rake db:setup
 rails s
